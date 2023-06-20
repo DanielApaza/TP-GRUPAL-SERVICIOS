@@ -1,0 +1,138 @@
+nav{
+    width: 100%;
+    background-color: #45ada7;
+    margin: 0;
+    flex-wrap: wrap;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+li{
+    background-color: #BEBEBE;
+    margin: 25px;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+li a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    flex-wrap: wrap;
+}
+
+body{
+    margin: 0px;
+    background-size: cover;
+    background-image: url("reztau.jpg");
+
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 300px;
+    display: flex;
+    margin: 50px;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.75);
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+}
+
+.integrantes{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+footer{
+background-color: #D0D0D0;
+margin: 0px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+flex-wrap: wrap;
+background-position: 1px;
+
+}
+
+main{
+    display: flex;
+   flex-direction: column;
+   justify-content: center;
+   flex-wrap: wrap;
+
+}
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.FotoIntegrante{
+    background-color: rgb(113, 113, 146);
+    width: 250px;
+    margin: 20px;
+}
+
+span{
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.textonegro{
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+}
+
+.textonegro2{
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+}
+
+.integrantes2{
+    display: flex;
+    margin: auto;
+    width: 70%;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+}
+
